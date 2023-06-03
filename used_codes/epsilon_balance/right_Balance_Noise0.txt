@@ -1,0 +1,18 @@
+POI -> [0, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 9991, falseの平均値 = 9
+POI -> [4, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 9987, falseの平均値 = 13
+POI -> [8, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 9965, falseの平均値 = 35
+POI -> [12, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 9886, falseの平均値 = 114
+POI -> [16, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 9612, falseの平均値 = 388
+POI -> [20, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 8932, falseの平均値 = 1068
+POI -> [24, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 8054, falseの平均値 = 1946
+POI -> [28, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 7183, falseの平均値 = 2817
+POI -> [32, 0, 17], epsilon(xy) = 0.6,epsilon(t) = 2.4の時
+trueの平均値 = 6387, falseの平均値 = 3613
